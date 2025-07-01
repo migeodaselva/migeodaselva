@@ -2,11 +2,11 @@
 
 I'm a **Computer Science graduate (B.Sc.)** currently pursuing a **Master's degree in Computer Engineering**.
 
-| ![migeodaselva's Stats](https://github-readme-stats.vercel.app/api?username=migeodaselva&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![migeodaselva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=migeodaselva&theme=dark&hide_border=true) |
+| ![migeodaselva's Stats](https://github-readme-stats.vercel.app/api?username=migeodaselva&theme=dark&show_icons=true&hide_border=true&count_private=true) | ![migeodaselva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migeodaselva&theme=dark&show_icons=true&hide_border=true&layout=compact) |
 |---|---|
+<!--![migeodaselva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=migeodaselva&theme=dark&hide_border=true) |
 
-| ![migeodaselva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migeodaselva&theme=dark&show_icons=true&hide_border=true&layout=compact) |
-|---|
+|---|-->
 
 
 <!--
